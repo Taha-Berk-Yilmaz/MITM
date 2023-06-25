@@ -1,7 +1,7 @@
 # MITM
 This is a Man In The Middle attack project.
 
-# Installation
+# Download
 ```python
 git clone https://github.com/Turbo-Charged-Eytron/MITM.git
 pip install -r requirements.txt
